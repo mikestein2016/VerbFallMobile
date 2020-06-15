@@ -692,6 +692,8 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Touch.Cnds.OnTapGestureObject,
 		C3.Plugins.SpeechRecognition.Cnds.SupportsSpeechRecognition,
 		C3.Plugins.Audio.Acts.Play,
+		C3.Plugins.Browser.Acts.RequestFullScreen,
+		C3.Plugins.Browser.Acts.LockOrientation,
 		C3.Plugins.System.Acts.GoToLayout,
 		C3.Plugins.System.Cnds.OnLoadFinished,
 		C3.Plugins.System.Cnds.OnLayoutStart,
