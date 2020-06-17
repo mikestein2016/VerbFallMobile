@@ -2274,6 +2274,7 @@ self.C3_JsPropNameTable = [
 		() => "He played video games all day.",
 		() => "(puxar)",
 		() => "pulled",
+		() => "I pulled the door open.",
 		() => "(empurrar)",
 		() => "pushed",
 		() => "My dad pushed me on the swing.",
